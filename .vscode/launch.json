@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch sort",
+            "request": "launch",
+            "mainClass": "OneD_Array.sort",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicateValue",
+            "request": "launch",
+            "mainClass": "Important_Q.RemoveDuplicateValue",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindDuplicatNumber",
+            "request": "launch",
+            "mainClass": "Important_Q.FindDuplicatNumber",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMissingNumber",
+            "request": "launch",
+            "mainClass": "Important_Q.FindMissingNumber",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch EnterValue",
+            "request": "launch",
+            "mainClass": "OneD_Array.EnterValue",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayWithoutAssingValue",
+            "request": "launch",
+            "mainClass": "OneD_Array.ArrayWithoutAssingValue",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseOrder",
+            "request": "launch",
+            "mainClass": "TwoD_Array.ReverseOrder",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch greatest",
+            "request": "launch",
+            "mainClass": "TwoD_Array.greatest",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmallestNo",
+            "request": "launch",
+            "mainClass": "TwoD_Array.SmallestNo",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SUMofeLEMENTreadAndPrint",
+            "request": "launch",
+            "mainClass": "TwoD_Array.SUMofeLEMENTreadAndPrint",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch readAndPrintTwoByfive",
+            "request": "launch",
+            "mainClass": "TwoD_Array.readAndPrintTwoByfive",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Initiliaze_PrintTwoD",
+            "request": "launch",
+            "mainClass": "TwoD_Array.Initiliaze_PrintTwoD",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch AccessTwoArray",
+            "request": "launch",
+            "mainClass": "TwoD_Array.AccessTwoArray",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadTwoD",
+            "request": "launch",
+            "mainClass": "TwoD_Array.ReadTwoD",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch simpleTwoD",
+            "request": "launch",
+            "mainClass": "TwoD_Array.simpleTwoD",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch simpleTwoD",
+            "request": "launch",
+            "mainClass": "simpleTwoD",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmallestElement",
+            "request": "launch",
+            "mainClass": "SmallestElement",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch greatestElement",
+            "request": "launch",
+            "mainClass": "greatestElement",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfElement",
+            "request": "launch",
+            "mainClass": "SumOfElement",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseElement",
+            "request": "launch",
+            "mainClass": "reverseElement",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadArrayElement",
+            "request": "launch",
+            "mainClass": "ReadArrayElement",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayWithoutAssingValue",
+            "request": "launch",
+            "mainClass": "ArrayWithoutAssingValue",
+            "projectName": "ARRAY_52bea3c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch EnterValue",
+            "request": "launch",
+            "mainClass": "EnterValue",
+            "projectName": "ARRAY_52bea3c3"
+        }
+    ]
+}
